@@ -15,4 +15,4 @@ This project logs randomly 3 messages short  pozitive quotes.
 Can be run in terminal with Node or in browser console with the HTML file.
 
 ## Status
-The project is complete
+The project is complete.
