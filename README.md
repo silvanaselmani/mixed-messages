@@ -12,7 +12,7 @@ This project logs randomly 3 messages short  pozitive quotes.
 + Node
 
 ## Launch
-Can be run in terminal with Node or in browser console with the HTML file.
+Can be run in terminal with Node.js  or in browser console with the HTML file.
 
 ## Status
 The project is complete.
